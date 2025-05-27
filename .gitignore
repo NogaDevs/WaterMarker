@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# MacOS files
+.DS_Store
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# PyCharm settings
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Data files (si quieres evitar subir datos grandes)
+*.csv
+*.xls
+*.xlsx
+*.json
+*.zip
+
+# Model artifacts
+*.h5
+*.pkl
+*.joblib
